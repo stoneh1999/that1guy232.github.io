@@ -6,4 +6,4 @@ Thank you for everyone whom enjoyed the treeshut.com
 In the future i may visit this repo and may recreate the html files with More knowledge of html (as i have now) and make it proper. 
 
 Credits for site to Tree and Stoney :) 
-<p id+"Bye"><a href="./images/goodbye.png"> i just wished to say goodbye</a></p>
+<p id+"Bye"><a href="./imgs/goodbye.png"> i just wished to say goodbye</a></p>
